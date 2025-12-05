@@ -4,6 +4,7 @@ guests = ["Virat", "Rohit", "AB"]
 print(f"Hey {guests[0]}, you're invited for dinner.")
 print(f"Hey {guests[1]}, you're invited for dinner.")
 print(f"Hey {guests[2]}, you're invited for dinner.")
+print(f"We are inviting {len(guests)} members.")
 
 # Exercise 3-5
 print(f"\nSorry guys, but {guests[2]} can't come today.")
@@ -25,6 +26,7 @@ print(f"Hey {guests[2]}, you're invited for dinner.")
 print(f"Hey {guests[3]}, you're invited for dinner.")
 print(f"Hey {guests[4]}, you're invited for dinner.")
 print(f"Hey {guests[5]}, you're invited for dinner.")
+print(f"We are inviting {len(guests)} members.")
 
 # Exercise 3-7
 print(
